@@ -1,5 +1,6 @@
 # Namma-Yatri-data-analysis-report
 Dataset
+
 The data is stored as a CSV file and captures trip details, customer and driver behaviour, and payment information from rides in Bengaluru. The data is organised into five worksheets, each representing a unique aspect of the operations. These tables offer insights into trips, payments, locations, and more. The five tables are:
 
 Assembly Table: Contains geographical area data in Bengaluru divided into assemblies
